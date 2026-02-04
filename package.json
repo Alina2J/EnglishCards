@@ -1,0 +1,21 @@
+{
+  "name": "englishcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "expo": "^54.0.33",
+    "react": "^19.2.4",
+    "react-native": "^0.83.1"
+  }
+}
